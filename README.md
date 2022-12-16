@@ -40,4 +40,30 @@ For Salesmen :
 ![Capture4](https://user-images.githubusercontent.com/75577472/208071912-94df3b9c-3860-4792-ac0f-f06eed73f922.PNG)
 
 
+# Screenshots
+Some screen shots from this project.
 
+
+![Capture5](https://user-images.githubusercontent.com/75577472/208073092-bb5d842c-be43-4bad-bd37-41f2cd9b5e5f.PNG)
+
+![Capture6](https://user-images.githubusercontent.com/75577472/208073684-3a39d7c7-dc25-4660-81f7-1c88ffac206d.PNG)
+
+![Capture7](https://user-images.githubusercontent.com/75577472/208073966-12cffaa4-71ba-48b6-b1f0-d4dcc51a00f1.PNG)
+
+![Capture](https://user-images.githubusercontent.com/75577472/208074188-4abab1cf-865a-4fff-b953-c2c9b76c9a21.PNG)
+
+![Capture9](https://user-images.githubusercontent.com/75577472/208074542-cff971a3-97e4-4e77-b786-831ba019251f.PNG)
+
+# Different Classes Used
+
+<ul>
+        <li>User</li>
+        <li>Administrator (Parent: User)</li>
+        <li>Salesman (Parent: User)</li>
+        <li>Prduct</li>
+        <li>Accessories (Parent: Product)</li>
+        <li>Equipment (Parent: Product)</li>
+        <li>Meds (Parent: Product)</li>
+        <li>Sales</li>
+        <li>Date</li>
+</ul>
