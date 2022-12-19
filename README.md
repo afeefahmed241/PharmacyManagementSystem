@@ -12,7 +12,7 @@ Users can either log in as Administrator or as a Salesmen. There are different f
 
 
 
-# Features
+## Features
 For Administrator :
 <ul>
         <li>Adding new products which is available in the store.</li>
@@ -40,7 +40,7 @@ For Salesmen :
 ![Capture4](https://user-images.githubusercontent.com/75577472/208071912-94df3b9c-3860-4792-ac0f-f06eed73f922.PNG)
 
 
-# Screenshots
+## Screenshots
 Some screen shots from this project.
 
 
@@ -54,7 +54,7 @@ Some screen shots from this project.
 
 ![Capture9](https://user-images.githubusercontent.com/75577472/208074542-cff971a3-97e4-4e77-b786-831ba019251f.PNG)
 
-# Different Classes Used
+## Different Classes Used
 
 <ul>
         <li>User</li>
