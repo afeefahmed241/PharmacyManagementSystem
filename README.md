@@ -1,9 +1,6 @@
 # Pharmacy Management System
 
-This is a very simple porject which utilizes the concept of Oriented Oriented Programming and built with C++. 
-There is no use of GUI, fully console based system. File system is used for data storage and retreival.
-This project contains some basic features which is essential for managing pharmaceutical shops. There are usually two types of users Administrator and Salesmen in this kind of scenarios. For this system, users can log in the system with their specific username and password.
-Users can either log in as Administrator or as a Salesmen. There are different features availbale for specific users such as administrator or salesmen.
+This is a very simple project which utilizes the concept of Oriented Oriented Programming and is built with C++. There is no use of GUI, a fully console-based system. File system is used for data storage and retrieval. This project contains some basic features which are essential for managing pharmaceutical shops. There are usually two types of users Administrators and Salesmen in this kind of scenario. For this system, users can log in the system with their specific username and password. Users can either log in as an Administrator or as a salesman. There are different features available for specific users such as administrators or salesmen.
 
 
 ![Capture1](https://user-images.githubusercontent.com/75577472/208069143-b623c678-f3d5-4f3c-8822-4a0e5ae1a8d5.PNG)
